@@ -12,7 +12,6 @@ namespace OODemoCA
         static void Main(string[] args)
         {
             var person = new Person();
-            var person2 = new Person();
 
             var animals = new List<Animal>();
             animals.Add(new Cat());
