@@ -15,7 +15,7 @@ namespace OODemoCA
 
             var animals = new List<Animal>();
             animals.Add(new Cat());
-            animals.Add(new Dog(10));
+            animals.Add(new Dog(47));
 
             foreach (var animal in animals)
             {
